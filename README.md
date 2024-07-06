@@ -1,2 +1,4 @@
-Il progetto consisteva nell'implementazione di un applicativo WEB per il sito di un'università generica.
-Ho creato il mio database da zero utilizzando postgres.
+DB projetct for DataBase course.
+In this project I implemented back-end with javascript/php,PostgresSQL and simple back-end with some framework.
+The goal was the development of a University portal application with some base operation.
+
